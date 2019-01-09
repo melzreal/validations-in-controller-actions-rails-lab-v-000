@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails'
+gem 'bundler', '~> 1.16', '>= 1.16.1'
+gem 'rails', '~> 4.2'
 gem 'sqlite3'
 gem 'rspec-rails'
 gem 'sass-rails', '~> 5.0'
